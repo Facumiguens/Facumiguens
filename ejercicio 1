@@ -1,0 +1,3 @@
+def puede_ver_pelicula(edad, tiene_autorizacion):
+ return >=15 
+ 
